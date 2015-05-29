@@ -1,0 +1,29 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "kgmcauliffe@gmail.com",
+    "longName": "Hack in the Box",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/HITB.png",
+                "name": "ICON",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "HITB",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "54d0bc17-5dc8-47be-9b2a-ce061cbbd276",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
